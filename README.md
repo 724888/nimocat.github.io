@@ -19,7 +19,6 @@
 ### 水磨风格标签与主页
 
 涂鸦风格首屏页面与Tags标签，移动端适配完成。
-![](http://p3sactqby.bkt.clouddn.com/all.png)
 ![](http://p3sactqby.bkt.clouddn.com/tags.png)
 
 ### 主题配色
