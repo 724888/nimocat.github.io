@@ -8,7 +8,7 @@
 
 [原主题源码及使用文档 →](https://github.com/kaeyleo/jekyll-theme-H2O)
 
-![](https://github.com/nimocat/nimocat.github.io/blob/master/screenshot/first-page.png?raw=true)
+![](![My Jekyll themes](http://p3sactqby.bkt.clouddn.com/first-page.png))
 
 新主题名叫"H2O"，基于Jekyll 3.0.x（使用```gem update jekyll```升级Jekyll），Markdown的代码高亮不再支持pygments转而使用rouge，咱已经默认配置了 ```highlighter: rouge``` 。用到的技术栈也很简单：引入jQuery类库，使用Sass编写样式，使用Gulp来编译Sass、合并压缩css、js，开源在[Github](https://github.com/kaeyleo/jekyll-theme-H2O)上，稍作配置即可用于你的Jekyll博客上。
 
@@ -19,8 +19,8 @@
 ### 水磨风格标签与主页
 
 涂鸦风格首屏页面与Tags标签，移动端适配完成。
-![](https://github.com/nimocat/nimocat.github.io/blob/master/screenshot/all.png?raw=true)
-![](https://github.com/nimocat/nimocat.github.io/blob/master/screenshot/tags.png?raw=true)
+![](![My Jekyll themes](http://p3sactqby.bkt.clouddn.com/all.png))
+![](![My Jekyll themes](http://p3sactqby.bkt.clouddn.com/tags.png))
 
 ### 主题配色
 

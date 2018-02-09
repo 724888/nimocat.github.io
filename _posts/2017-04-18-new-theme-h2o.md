@@ -4,7 +4,7 @@ title: 'Ink theme for Jekyll'
 subtitle: '墨水——Jekyll Theme'
 date: 2017-04-18
 categories: 技术
-cover: 'https://github.com/nimocat/nimocat.github.io/blob/master/screenshot/first-page.png?raw=true'
+cover: 'http://p3sactqby.bkt.clouddn.com/first-page.png'
 tags: jekyll 前端开发 设计
 ---
 # 墨水——H2O主题
@@ -14,11 +14,11 @@ tags: jekyll 前端开发 设计
 
 [原主题源码及使用文档 →](https://github.com/kaeyleo/jekyll-theme-H2O)
 
-![](https://github.com/nimocat/nimocat.github.io/blob/master/screenshot/screen.png?raw=true)
+![](http://p3sactqby.bkt.clouddn.com/screen.png)
 
 新主题名叫"H2O"，基于Jekyll 3.0.x（使用```gem update jekyll```升级Jekyll），Markdown的代码高亮不再支持pygments转而使用rouge，咱已经默认配置了 ```highlighter: rouge``` 。用到的技术栈也很简单：引入jQuery类库，使用Sass编写样式，使用Gulp来编译Sass、合并压缩css、js，开源在[Github](https://github.com/kaeyleo/jekyll-theme-H2O)上，稍作配置即可用于你的Jekyll博客上。
 
-![My Jekyll themes](https://github.com/nimocat/nimocat.github.io/blob/master/screenshot/all.png?raw=true)
+![My Jekyll themes](http://p3sactqby.bkt.clouddn.com/all.png)
 
 比之前漂亮不少吧，下面聊聊H2O的新特性。
 
@@ -27,7 +27,7 @@ tags: jekyll 前端开发 设计
 ### 水磨风格标签与主页
 
 涂鸦风格首屏页面与Tags标签，移动端适配完成。
-
+![](http://p3sactqby.bkt.clouddn.com/tags.png)
 ### 主题配色
 
 使用暗色+白底字强调。
