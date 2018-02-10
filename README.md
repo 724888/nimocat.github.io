@@ -21,6 +21,10 @@
 涂鸦风格首屏页面与Tags标签，移动端适配完成。
 ![](http://p3sactqby.bkt.clouddn.com/tags.png)
 
+### 定制主页字体
+
+因为整个字体文件较大，为了优化加载速度，我使用了[字蛛](http://font-spider.org/)进行压缩，压缩方法详见[Jekyll优化](http://blog.nintheavens.com/2018/02/08/Jekyll%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5.html)的这篇文章，中文的压缩略微复杂，如果嫌麻烦，还可以在dev/sass/base.sass中把h2 h3的字体从'Writing'改为'HeaderEng'，Writing是米芾书法字体，HeaderEng是标签页的英文字体样式，同样是涂鸦风，放在主页也应该会很好看。
+
 ### 主题配色
 
 使用暗色+白底字强调。
