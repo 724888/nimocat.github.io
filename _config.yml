@@ -26,7 +26,7 @@ avatar: 'http://p3sactqby.bkt.clouddn.com/header.jpg'
 search: true
 
 # Night mode
-nightMode: false
+nightMode: true
 
 # Comments
 disqus: false
