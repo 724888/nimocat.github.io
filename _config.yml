@@ -29,10 +29,10 @@ search: true
 nightMode: false
 
 # Comments
-disqus: false
-disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+disqus: true
+disqus_url: 'https://aitianyi.disqus.com/embed.js'
 
-livere: true
+livere: false
 livere_uid: MTAyMC8yODEwMC80Njcz
 
 # Reward 赞赏功能 by Ray-Eldath
