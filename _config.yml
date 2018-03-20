@@ -29,11 +29,11 @@ search: true
 nightMode: false
 
 # Comments
-disqus: true
+disqus: false
 disqus_url: 'https://aitianyi.disqus.com/embed.js'
 
-livere: false
-livere_uid: MTAyMC8yODEwMC80Njcz
+livere: true
+livere_uid: MTAyMC8zNTAxNS8xMTU1Mg==
 
 # Reward 赞赏功能 by Ray-Eldath
 reward:
